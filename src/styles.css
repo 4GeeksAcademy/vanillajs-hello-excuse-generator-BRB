@@ -1,0 +1,21 @@
+
+body {
+    background-color: black;
+  }
+  
+  #top {
+    font-style: oblique;
+    color: black;
+    font-size: 80px;
+    height: 100%;
+    display: flex;
+    margin: 150px 300px 10px;
+    justify-content: center;
+    align-items: center;
+    }
+  
+  #bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
